@@ -1,0 +1,14 @@
+[theme]
+textColor       = "#434343"
+font            = "monospace"
+primaryColor    = "#8063b5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor ="#c5edea"
+
+
+# colores_dict = {
+#   "doc"   = ["#ffe43e", "#ffe965", "#ffef8b", "#fff4b2"],
+#   "alum"  = ["#17bebb", "#45cbc9", "#74d8d6", "#a2e5e4", "#c5edea"],
+#   "apod"  = ["#6641a5", "#7252ad", "#8063b5", "#9c86c5"],
+#   "asist" = ["#6641a5", "#7252ad", "#8063b5", "#9c86c5"],
+# }
